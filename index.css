@@ -1,0 +1,49 @@
+body{
+ font-family: 'Nunito Sans', sans-serif;
+}
+
+.container{
+    display: flex;
+    width: 70%;
+    margin: 10% auto auto;
+}
+.child-container{
+    width: 25%;
+    padding: 4% 3%;
+    color: #ffffff;
+}
+
+.sedans{
+    background-color: #ce932b;
+    border-top-left-radius: 2%;
+    border-bottom-left-radius: 2%;
+
+}
+
+.text-body{
+    margin-bottom: 80px;
+}
+
+.button{
+    border: 2px solid #ffffff;
+    border-radius: 22px;
+    height: 50px;
+    width: 130px;
+    font-size: 15px;
+    background-color:transparent ;
+    color: #ffffff;
+
+}
+
+.suv{
+    background-color: #2d2d80;
+
+}
+
+.luxury {
+    background-color: #233f2b;
+    border-top-right-radius: 2%;
+    border-bottom-right-radius: 2%;
+
+}
+
